@@ -11,10 +11,10 @@ GitHub Link Converter একটি সহজ ও প্রফেশনাল ও
 
 ## Screenshots
 
-![Main UI](https://user-images.githubusercontent.com/130839473/your-image-link.png)  
+![Main UI](assets/images/full_ui.png)  
 *প্রজেক্টের হোমপেজ UI*
 
-![Converted Links with User Info](https://user-images.githubusercontent.com/130839473/your-image-link-2.png)  
+![Converted Links with User Info](assets/images/output_ui.png)  
 *কনভার্টেড লিংক, কপি বাটন, QR কোড ও ইউজারের তথ্যসহ আউটপুট*
 
 ---
